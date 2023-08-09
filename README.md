@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning full stack web development and Java
 - 💞️ I’m looking to collaborate on Java projects.
-- 📫 How to reach me ...
+- 📫 How to reach me  (my linkedin) https://www.linkedin.com/in/simran-vyas-ab6309202/
 
 <!---
 53-Simran/53-Simran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
